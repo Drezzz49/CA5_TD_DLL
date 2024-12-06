@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace CA5_DLL_Test
+namespace CA5_TD_DLL
 {
     // InputParser
     // Because this class is simply a collection of helper functions,
